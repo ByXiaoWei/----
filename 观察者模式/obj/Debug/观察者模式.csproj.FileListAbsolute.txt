@@ -1,0 +1,6 @@
+G:\Microsoft\VSWorkSpace\设计模式\观察者模式\bin\Debug\观察者模式.exe.config
+G:\Microsoft\VSWorkSpace\设计模式\观察者模式\bin\Debug\观察者模式.exe
+G:\Microsoft\VSWorkSpace\设计模式\观察者模式\bin\Debug\观察者模式.pdb
+G:\Microsoft\VSWorkSpace\设计模式\观察者模式\obj\Debug\观察者模式.csprojResolveAssemblyReference.cache
+G:\Microsoft\VSWorkSpace\设计模式\观察者模式\obj\Debug\观察者模式.exe
+G:\Microsoft\VSWorkSpace\设计模式\观察者模式\obj\Debug\观察者模式.pdb
